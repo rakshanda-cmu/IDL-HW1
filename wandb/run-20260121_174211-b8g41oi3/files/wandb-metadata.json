@@ -1,0 +1,33 @@
+{
+  "os": "macOS-15.7.3-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.11",
+  "startedAt": "2026-01-21T22:42:11.103880Z",
+  "program": "/Users/rakshanda/Documents/Rakshanda MS/Sem2/IDL/HW1/HW1P2_Student_Starter_Notebook_TODO.ipynb",
+  "codePath": "/Users/rakshanda/Documents/Rakshanda MS/Sem2/IDL/HW1/HW1P2_Student_Starter_Notebook_TODO.ipynb",
+  "codePathLocal": "HW1P2_Student_Starter_Notebook_TODO.ipynb",
+  "email": "rrakshan@andrew.cmu.edu",
+  "root": "/Users/rakshanda/Documents/Rakshanda MS/Sem2/IDL/HW1",
+  "host": "Rakshandas-MacBook-Air.local",
+  "executable": "/opt/anaconda3/envs/idls26/bin/python",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "244901752832"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "apple": {
+    "name": "Apple M4",
+    "ecpuCores": 6,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 16,
+    "swapTotalBytes": "6442450944",
+    "ramTotalBytes": "17179869184"
+  },
+  "writerId": "gj89x1t98rmcipgaqb9hajlu692s1owc"
+}
